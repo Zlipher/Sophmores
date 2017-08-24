@@ -9,6 +9,7 @@
  * @author Sam
  */
 public class Sophmores {
+
     public static class Mike{
         public static String name = "Mike";
         public static String type = "Paper";
